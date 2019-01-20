@@ -14,7 +14,7 @@ namespace Unforge\Abstraction\Cache;
 /**
  * Interface CacheInterface
  *
- * @package Unforge\Abstraction
+ * @package Unforge\Abstraction\Cache
  */
 interface CacheInterface
 {

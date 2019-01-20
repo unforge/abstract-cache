@@ -14,7 +14,7 @@ namespace Unforge\Abstraction\Cache;
 /**
  * Class AbstractCache
  *
- * @package Unforge\Abstraction
+ * @package Unforge\Abstraction\Cache
  */
 abstract class AbstractCache implements CacheInterface
 {
